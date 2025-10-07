@@ -1,4 +1,4 @@
-# 📊 Project: 
+# 📊 Project: Click to see the "Abyssinian" information
 
 ### Goal: Display data returned from an api
 
